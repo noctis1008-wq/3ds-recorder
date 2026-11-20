@@ -70,6 +70,9 @@ recordings stay.
 | **To the phone** | Gallery → **Y** on a recording, scan the QR code with the phone's camera, tap **Save the video**. iPhone and Android, nothing to install. |
 | **From the SD card** | `/3ds/recorder/recordings/`: an `.mp4` next to each converted `.r3d`. Only an `.r3d`? Drop it on the [converter page](https://bolgarmaxym97.github.io/3ds-recorder/) — the browser makes the MP4, nothing is uploaded. |
 
+**On a computer, in high quality:** [r3d2video](docs/pc-converter.md) makes YouTube-ready MP4s (sharp 1440p),
+DaVinci Resolve files (DNxHR) or lossless archives from the `.r3d` recordings — drag them onto `r3d2video.exe`.
+
 **The LED:** blue for a moment — ready · red, breathing — recording · faint blue — Replay is on · green twice — saved ·
 red three times — something went wrong (usually a full SD card), open the app to see why.
 
